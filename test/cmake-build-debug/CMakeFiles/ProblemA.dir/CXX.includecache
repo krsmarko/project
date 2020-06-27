@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/turbokorneplod/Desktop/Coding/PseudoBoolean/test/problem_a/problem_a.cpp
+unordered_map
+-
+map
+-
+vector
+-
+algorithm
+-
+iostream
+-
+fstream
+-
+ctime
+-
+unordered_set
+-
+

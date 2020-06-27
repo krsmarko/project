@@ -1,0 +1,797 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="YaContest1"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ProblemI">
+				<Option output="C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/ProblemI.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 ProblemI"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ProblemI/fast">
+				<Option output="C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/ProblemI.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 ProblemI/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ProblemA">
+				<Option output="C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/ProblemA.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 ProblemA"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ProblemA/fast">
+				<Option output="C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/ProblemA.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 ProblemA/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ProblemB">
+				<Option output="C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/ProblemB.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 ProblemB"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ProblemB/fast">
+				<Option output="C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/ProblemB.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 ProblemB/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ProblemC">
+				<Option output="C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/ProblemC.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 ProblemC"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ProblemC/fast">
+				<Option output="C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/ProblemC.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 ProblemC/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ProblemD">
+				<Option output="C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/ProblemD.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 ProblemD"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ProblemD/fast">
+				<Option output="C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/ProblemD.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 ProblemD/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ProblemE">
+				<Option output="C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/ProblemE.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 ProblemE"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ProblemE/fast">
+				<Option output="C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/ProblemE.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 ProblemE/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ProblemF">
+				<Option output="C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/ProblemF.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 ProblemF"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ProblemF/fast">
+				<Option output="C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/ProblemF.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 ProblemF/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ProblemG">
+				<Option output="C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/ProblemG.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 ProblemG"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ProblemG/fast">
+				<Option output="C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/ProblemG.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 ProblemG/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ProblemH">
+				<Option output="C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/ProblemH.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 ProblemH"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ProblemH/fast">
+				<Option output="C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/ProblemH.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 ProblemH/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ProblemJ">
+				<Option output="C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/ProblemJ.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 ProblemJ"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ProblemJ/fast">
+				<Option output="C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/ProblemJ.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 ProblemJ/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ProblemK">
+				<Option output="C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/ProblemK.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 ProblemK"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ProblemK/fast">
+				<Option output="C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/ProblemK.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 ProblemK/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ProblemL">
+				<Option output="C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/ProblemL.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 ProblemL"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ProblemL/fast">
+				<Option output="C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/ProblemL.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 ProblemL/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ProblemM">
+				<Option output="C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/ProblemM.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 ProblemM"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ProblemM/fast">
+				<Option output="C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/ProblemM.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 ProblemM/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ProblemN">
+				<Option output="C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/ProblemN.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 ProblemN"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ProblemN/fast">
+				<Option output="C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/ProblemN.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 ProblemN/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ProblemO">
+				<Option output="C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/ProblemO.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 ProblemO"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ProblemO/fast">
+				<Option output="C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/ProblemO.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 ProblemO/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ProblemP">
+				<Option output="C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/ProblemP.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 ProblemP"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ProblemP/fast">
+				<Option output="C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/ProblemP.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 ProblemP/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/problem_a/problem_a.cpp">
+			<Option target="ProblemA"/>
+		</Unit>
+		<Unit filename="C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/problem_b/problem_b.cpp">
+			<Option target="ProblemB"/>
+		</Unit>
+		<Unit filename="C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/problem_c/problem_c.cpp">
+			<Option target="ProblemC"/>
+		</Unit>
+		<Unit filename="C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/problem_d/problem_d.cpp">
+			<Option target="ProblemD"/>
+		</Unit>
+		<Unit filename="C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/problem_e/problem_e.cpp">
+			<Option target="ProblemE"/>
+		</Unit>
+		<Unit filename="C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/problem_f/problem_f.cpp">
+			<Option target="ProblemF"/>
+		</Unit>
+		<Unit filename="C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/problem_g/problem_g.cpp">
+			<Option target="ProblemG"/>
+		</Unit>
+		<Unit filename="C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/problem_h/problem_h.cpp">
+			<Option target="ProblemH"/>
+		</Unit>
+		<Unit filename="C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/problem_i/problem_i.cpp">
+			<Option target="ProblemI"/>
+		</Unit>
+		<Unit filename="C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/problem_j/problem_j.cpp">
+			<Option target="ProblemJ"/>
+		</Unit>
+		<Unit filename="C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/problem_k/problem_k.cpp">
+			<Option target="ProblemK"/>
+		</Unit>
+		<Unit filename="C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/problem_l/problem_l.cpp">
+			<Option target="ProblemL"/>
+		</Unit>
+		<Unit filename="C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/problem_m/problem_m.cpp">
+			<Option target="ProblemM"/>
+		</Unit>
+		<Unit filename="C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/problem_n/problem_n.cpp">
+			<Option target="ProblemN"/>
+		</Unit>
+		<Unit filename="C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/problem_o/problem_o.cpp">
+			<Option target="ProblemO"/>
+		</Unit>
+		<Unit filename="C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/problem_p/problem_p.cpp">
+			<Option target="ProblemP"/>
+		</Unit>
+		<Unit filename="C:/Users/turbokorneplod/Desktop/Coding/cpp-sem/ya_contest1/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

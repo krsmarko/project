@@ -1,0 +1,4 @@
+C:/Users/turbokorneplod/Desktop/Coding/PseudoBoolean/test/cmake-build-debug/CMakeFiles/ProblemA.dir
+C:/Users/turbokorneplod/Desktop/Coding/PseudoBoolean/test/cmake-build-debug/CMakeFiles/ProblemB.dir
+C:/Users/turbokorneplod/Desktop/Coding/PseudoBoolean/test/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/turbokorneplod/Desktop/Coding/PseudoBoolean/test/cmake-build-debug/CMakeFiles/rebuild_cache.dir
